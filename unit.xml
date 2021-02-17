@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0660" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-02-17T18:38:06" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="express_middleware_basics" timestamp="2021-02-17T18:38:06" tests="6" file="C:\Users\qiuyu\Bitbucket\Interview-coding-tests\HackerRankNode-2021-02-16\test\index.spec.js" time="0.0660" failures="0">
+    <testcase name="express_middleware_basics Should have the trace object in the request" time="0.0030" classname="Should have the trace object in the request">
+    </testcase>
+    <testcase name="express_middleware_basics Should have property id, timestamp, path in trace object" time="0.0010" classname="Should have property id, timestamp, path in trace object">
+    </testcase>
+    <testcase name="express_middleware_basics Should have a valid path value against the path property" time="0.0010" classname="Should have a valid path value against the path property">
+    </testcase>
+    <testcase name="express_middleware_basics Should have a unique id value against the id property" time="0.0030" classname="Should have a unique id value against the id property">
+    </testcase>
+    <testcase name="express_middleware_basics Should have a valid timestamp value in the trace" time="0.0030" classname="Should have a valid timestamp value in the trace">
+    </testcase>
+    <testcase name="express_middleware_basics Should have the middleware mounted on all the /task routes" time="0.0550" classname="Should have the middleware mounted on all the /task routes">
+    </testcase>
+  </testsuite>
+</testsuites>

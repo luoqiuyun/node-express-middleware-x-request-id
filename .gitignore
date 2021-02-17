@@ -44,5 +44,6 @@ dist
 .dynamodb/
 .tern-port
 */node_modules
+unit.xml
 NOTES
 REQUIREMENT.png
